@@ -11,5 +11,5 @@
 
 # Technologies used
 
-HTML: The foundation for structuring the page content and establishing its overall layout.
-CSS: Employed to style the visual elements, and define colors, fonts, spacing, and overall aesthetics of the landing page.
+- HTML: The foundation for structuring the page content and establishing its overall layout.
+- CSS: Employed to style the visual elements, and define colors, fonts, spacing, and overall aesthetics of the landing page.
